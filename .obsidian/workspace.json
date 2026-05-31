@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ingles/📂 English Grammar — Master Index.md",
-                "mode": "source",
+                "file": "ingles/pages/01.11 Singular vs Plural Nouns.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📂 English Grammar — Master Index"
+              "title": "01.11 Singular vs Plural Nouns"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256.5
   },
   "right": {
     "id": "74b90ca63be9e05d",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ingles/📂 English Grammar — Master Index.md",
+                "file": "ingles/pages/01.11 Singular vs Plural Nouns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 📂 English Grammar — Master Index"
+              "title": "Enlaces entrantes de 01.11 Singular vs Plural Nouns"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ingles/📂 English Grammar — Master Index.md",
+                "file": "ingles/pages/01.11 Singular vs Plural Nouns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 📂 English Grammar — Master Index"
+              "title": "Enlaces salientes de 01.11 Singular vs Plural Nouns"
             }
           },
           {
@@ -156,21 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ingles/📂 English Grammar — Master Index.md",
+                "file": "ingles/pages/01.11 Singular vs Plural Nouns.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 📂 English Grammar — Master Index"
+              "title": "Esquema de 01.11 Singular vs Plural Nouns"
+            }
+          },
+          {
+            "id": "c5f3be3709f0343d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,9 +190,14 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b86870391a3b48d8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "ingles/01 - Basics.md",
+    "📂 English Grammar — Master Index.md",
+    "ingles/Present Tenses.md"
+  ]
 }
