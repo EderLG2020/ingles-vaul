@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.MD.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.MD"
+              "title": "README"
             }
           }
         ]
@@ -194,7 +194,7 @@
   "active": "f1fee55e6466e753",
   "lastOpenFiles": [
     "ingles/pages/05.14 Semi-Modals.md",
-    "README.MD.md",
+    "README.md",
     "ingles/pages/05.13 Modal Perfects.md",
     "ingles/pages/05.12 Dare.md",
     "ingles/pages/05.11 Need To.md",
