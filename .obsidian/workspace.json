@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38342b677820fc70",
+        "id": "202f904b49678c8a",
         "type": "tabs",
         "children": [
           {
-            "id": "e48efd15374eeaf5",
+            "id": "5a310312ba9ac20e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.MD.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "README.MD"
             }
           }
         ]
@@ -187,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e48efd15374eeaf5",
+  "active": "f1fee55e6466e753",
   "lastOpenFiles": [
     "ingles/pages/05.14 Semi-Modals.md",
-    "📂 English Grammar — Master Index.md",
+    "README.MD.md",
     "ingles/pages/05.13 Modal Perfects.md",
     "ingles/pages/05.12 Dare.md",
     "ingles/pages/05.11 Need To.md",
